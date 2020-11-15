@@ -6,6 +6,7 @@ public class FileLibClass {
 	{
 		System.out.println("My FileLib Method");
 		System.out.println("Changes from Local -- user 1");
+		System.out.println("Changes in GitHub -- User 2");
 	}
 
 }
