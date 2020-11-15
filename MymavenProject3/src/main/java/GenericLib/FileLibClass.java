@@ -5,8 +5,8 @@ public class FileLibClass {
 	public void fileLibMethod()
 	{
 		System.out.println("My FileLib Method");
-		System.out.println("Changes from Global repository");
-		System.out.println("Changes from Global Repository");
+		System.out.println("Changes from Local -- user 1");
+		System.out.println("Changes in GitHub -- User 2");
 	}
 
 }
