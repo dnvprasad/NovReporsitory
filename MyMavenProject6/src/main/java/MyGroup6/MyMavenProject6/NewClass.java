@@ -4,7 +4,7 @@ public class NewClass {
 	
 	public void newMethod()
 	{
-		System.out.println("My New Method");
+		System.out.println("Hello World");
 	}
 
 }
